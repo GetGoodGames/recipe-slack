@@ -1,8 +1,8 @@
 {
-  "id": "slack",
-  "name": "Slack",
+  "id": "get-good-games-slack",
+  "name": "Get Good Games Slack",
   "version": "1.0.8",
-  "description": "Slack",
+  "description": "Get Good Games Slack",
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
